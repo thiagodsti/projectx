@@ -12,7 +12,7 @@ app.get('/number', function(req, res) {
 
 
 app.get('/', function(req, res) {
-  res.send('ok deploy automatico teste 2');
+  res.send('entrevista intelbras');
 });
 
 app.listen(port);
